@@ -1,0 +1,14 @@
+TODO list:
+----------
+- multicast? broadcast?
+	- http://en.wikipedia.org/wiki/Multicast
+- 可做local-scope multicast IP設定?
+- [ ] server-clients frame sync
+- [ ] server app
+	- [ ] 關掉後也要關掉oscP5所佔用的port
+	- [ ] 要能播聲音檔?
+- [ ] client player
+	- [ ] 需發出osc message給server, 要求得知共同的random seed
+	- [ ] 關掉後也要關掉oscP5所佔用的port
+- [ ] projection mapping for client
+- 使用most-pixel-ever改寫
