@@ -11,6 +11,5 @@ a simple player for video art on multi-channel, play videos simultaneously, proj
 
 status:
 =======
-currently in testing stage
-
-目前正在測試階段
+- currently in testing stage 目前正在測試階段
+- 預計搭配 [APC](http://apc.io) 作為錄像藝術播放器
