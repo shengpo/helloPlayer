@@ -43,6 +43,7 @@ TODO list:
 - multicast? broadcast?
 	- http://en.wikipedia.org/wiki/Multicast
 - 可做local-scope multicast IP設定?
+	- 參考 [oscMulticastWithPropertiesDemo](https://github.com/shengpo/processing_snips/tree/master/oscMulticastWithPropertiesDemo)
 - [ ] server-clients frame sync
 - [ ] server app
 	- [ ] 關掉後也要關掉oscP5所佔用的port
